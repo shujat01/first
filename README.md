@@ -1,4 +1,4 @@
 # first
 this is my first repo
 <br>
-authos-shujjad ali
+authos-shujjad (college)
